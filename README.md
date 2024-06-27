@@ -1,5 +1,5 @@
 # NetworkingProject
-This was a project I developed during off times after my 2nd year at university along side my placement year, I followed a lot of examples from Multiplayer Game Programming: Architecting Networked Games (Game Design)
+This was a project I developed during off times after my 2nd year at university along side my placement year, I followed a lot of concepts from Multiplayer Game Programming: Architecting Networked Games (Game Design)
 by Josh Glazer and Sanjay Madhav.
 
 although some stuff was a little outdated so I retargets the build to 2019 as I tried getting the build to work with MSbuild tools 2022 however I just could't as well as I was busy during these times.
